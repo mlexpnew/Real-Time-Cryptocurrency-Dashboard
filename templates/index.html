@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-Time Cryptocurrency Dashboard</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.4.1/socket.io.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; text-align: center; }
+        h1 { color: #333; }
+        .crypto { margin: 10px 0; font-size: 1.5em; }
+    </style>
+</head>
+<body>
+    <h1>Real-Time Cryptocurrency Dashboard</h1>
+    <div id="prices">
+        <div class="crypto">Bitcoin (BTC): $<span id="btc">Loading...</span></div>
+        <div class="crypto">Ethereum (ETH): $<span id="eth">Loading...</span></div>
+        <div class="crypto">Binance Coin (BNB): $<span id="bnb">Loading...</span></div>
+    </div>
+
+    <script>
+        const socket = io();
+
+        socket.on("crypto-data", (data) => {  // Ensure correct event name
+            document.getElementById("btc").textContent = data.bitcoin.usd;
+            document.getElementById("eth").textContent = data.ethereum.usd;
+            document.getElementById("bnb").textContent = data.binancecoin.usd;
+        });
+    </script>
+</body>
+</html>
