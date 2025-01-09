@@ -57,7 +57,7 @@ This **Real-Time Cryptocurrency Dashboard** is a simple web application built us
 ### **Screenshots**
 
 #### Dashboard:
-![Dashboard Screenshot](https://i.imgur.com/dkE5p4v.png)
+
 
 ---
 
@@ -74,3 +74,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Let me know if you need any additional changes!
+
+
+output image <img width="1439" alt="Screenshot 2025-01-09 at 5 05 08 PM" src="https://github.com/user-attachments/assets/0d6a4826-b166-4304-9283-23c6250ac44b" />
+
