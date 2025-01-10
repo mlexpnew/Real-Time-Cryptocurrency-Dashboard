@@ -1,4 +1,4 @@
-Thank you for the update! I'll adjust the README to reflect that you're using HTML, Python, and Flask without Plotly.
+ I'll adjust the README to reflect that you're using HTML, Python, and Flask without Plotly.
 
 ---
 
