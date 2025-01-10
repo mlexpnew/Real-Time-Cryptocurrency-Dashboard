@@ -76,5 +76,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Let me know if you need any additional changes!
 
 
-output image <img width="1439" alt="Screenshot 2025-01-09 at 5 05 08 PM" src="https://github.com/user-attachments/assets/0d6a4826-b166-4304-9283-23c6250ac44b" />
-
+output image <img width="730" alt="Screenshot 2025-01-09 at 5 49 58 PM" src="https://github.com/user-attachments/assets/bb5b8b4f-dd94-4800-99e9-497034463d2b" />
