@@ -68,7 +68,7 @@ ipython==9.3.0
 ipython_pygments_lexers==1.1.1
 itsdangerous==2.2.0
 jedi==0.19.2
-Jinja2==3.1.4
+Jinja2==3.1.6
 jiter==0.10.0
 jmespath==1.0.1
 joblib==1.4.2
@@ -135,7 +135,7 @@ portalocker==2.7.0
 posthog==5.4.0
 prompt_toolkit==3.0.51
 propcache==0.3.2
-protobuf==5.28.0
+protobuf==6.32.0
 psutil==6.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
@@ -176,7 +176,7 @@ sahi==0.11.18
 scikit-learn==1.5.1
 scipy==1.14.1
 seaborn==0.13.2
-setuptools==74.1.2
+setuptools==80.9.0
 shapely==2.0.6
 shellingham==1.5.4
 six==1.16.0
@@ -186,7 +186,7 @@ SQLAlchemy==2.0.41
 stack-data==0.6.3
 stopwords==1.0.1
 streamlit==1.48.0
-sympy==1.13.2
+sympy==1.14.0
 tenacity==9.0.0
 tensorboard==2.17.1
 tensorboard-data-server==0.7.2
@@ -199,7 +199,7 @@ tokenizers==0.21.4
 toml==0.10.2
 tomli==2.2.1
 tomli_w==1.2.0
-torch==2.4.1
+torch==2.8.0
 torchvision==0.19.1
 tornado==6.5.1
 tqdm==4.66.5
@@ -211,8 +211,8 @@ typing_extensions==4.12.2
 tzdata==2024.1
 ultralytics==8.2.90
 ultralytics-thop==2.0.6
-urllib3==2.2.2
-uv==0.8.5
+urllib3==2.5.0
+uv==0.8.12
 uvicorn==0.35.0
 uvloop==0.21.0
 vboxapi==1
