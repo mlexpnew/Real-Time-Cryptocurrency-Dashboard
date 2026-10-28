@@ -1,10 +1,6 @@
- I'll adjust the README to reflect that you're using HTML, Python, and Flask without Plotly.
+# Real-Time Cryptocurrency Dashboard
 
----
-
-### **README for Real-Time Cryptocurrency Dashboard**
-
----
+<img width="730" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/bb5b8b4f-dd94-4800-99e9-497034463d2b" />
 
 ## Project Overview
 
@@ -71,9 +67,3 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-
-Let me know if you need any additional changes!
-
-
-output image <img width="730" alt="Screenshot 2025-01-09 at 5 49 58 PM" src="https://github.com/user-attachments/assets/bb5b8b4f-dd94-4800-99e9-497034463d2b" />
